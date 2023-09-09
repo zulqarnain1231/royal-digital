@@ -5,7 +5,7 @@ import { BsTwitter, BsYoutube } from "react-icons/bs";
 import {
   FaFacebookF,
   FaLinkedinIn,
-  FaTelegramPlane,
+  FaTelegramPlane,dfsdf
   FaSlackHash,
 } from "react-icons/fa";
 import { BiLogoInstagramAlt } from "react-icons/bi";
