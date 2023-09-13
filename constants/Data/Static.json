@@ -1,0 +1,71 @@
+{
+  "Sponsors": [
+    {
+      "image": "/Assets/Sponsors/1.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/Abstract.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/Beats.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/Teharo.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/Working.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/1.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/Abstract.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/Beats.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/Teharo.png",
+      "route": "/"
+    },
+    {
+      "image": "/Assets/Sponsors/Working.png",
+      "route": "/"
+    }
+  ],
+  "RoadMap": {
+    "phase1": [
+      "Project Conceptualization",
+      "Website Launch",
+      "DEX Integration",
+      "Community Development"
+    ],
+    "phase2": [
+      "App Launch",
+      "Private Sale and Pre Sale Airdrops",
+      "and Community Growth App",
+      "Development and Website Upgrade",
+      "Partnerships and Listing"
+    ],
+    "phase3": [
+      "DAO marketplace Launch",
+      "Exchange Platform",
+      "Events and Community",
+      "Growth Partnerships"
+    ],
+    "phase4": [
+      "App Development Upgrade Events",
+      "and Community Growth New",
+      "products Food safety and tourism",
+      "many more"
+    ]
+  }
+}
